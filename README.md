@@ -29,10 +29,7 @@ A GUI-based Bank Management System built using Java. The application simulates b
 
 ## Future Enhancements
 
--Integrate a real database (MySQL)
-
--Add transaction history export (CSV/PDF)
-
--Implement password encryption and enhanced security
-
--Build a web-based version using JavaFX or Spring Boot
+- Integrate a real database (MySQL)
+- Add transaction history export (CSV/PDF)
+- Implement password encryption and enhanced security
+- Build a web-based version using JavaFX or Spring Boot
